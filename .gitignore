@@ -1,0 +1,15 @@
+# pycache
+__pycache__/
+
+# Models
+models/llama-8b-10585/adapter_model.safetensors
+models/llama-8b-10585/training_args.bin
+models/complementary_transformer/models/**/model.pt
+
+# Outputs
+*.mid
+*.mp3
+pipeline_out/
+
+# Hugging Face repo
+hf_repo
