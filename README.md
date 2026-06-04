@@ -35,8 +35,8 @@ This repository does not aim to include the full internal development history or
 
 Hugging Face model links will be published here:
 
-- Llama adapter model: `HF_LINK_LLAMA_ADAPTER`
-- Complementary transformer model: `HF_LINK_COMPLEMENTARY_TRANSFORMER`
+- Llama adapter model: [`T2P Base Model`](https://huggingface.co/umutgur/t2p/tree/main/t2p_base)
+- Complementary transformer model: [`Complementary Transformer`](https://huggingface.co/umutgur/t2p/tree/main/complementary_transformer)
 
 Recommended split:
 
